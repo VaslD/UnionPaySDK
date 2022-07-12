@@ -59,3 +59,4 @@ Podfile.lock
 
 # Project
 *.xcarchive
+*.xcworkspace/
